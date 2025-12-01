@@ -5,7 +5,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
 
-st.title("Sudoku Solver — MRV + Forward Checking (with your helpers)")  
+st.title("Sudoku Solver — MRV + Forward Checking")  
 
 
 # 1. Base puzzle ---------------------------------------------------------------------------
